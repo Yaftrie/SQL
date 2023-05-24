@@ -32,7 +32,5 @@ insert into ilike values(5, 1, 0, 0, 1);
 
 -- select
 
--- select id from ilike where genre = 0;
-
 select * from client;
 select * from ilike;
